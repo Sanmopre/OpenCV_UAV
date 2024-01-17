@@ -1,0 +1,9 @@
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/GCS.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/package.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/package_source.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/edit_cache.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/rebuild_cache.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/list_install_components.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/install.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/install/local.dir
+/home/sanmopre/OpenCV_UAV/build/CMakeFiles/install/strip.dir
